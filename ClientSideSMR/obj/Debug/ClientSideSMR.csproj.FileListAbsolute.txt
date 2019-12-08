@@ -1,0 +1,7 @@
+C:\Users\wdsis\source\repos\ClientSideSMR\ClientSideSMR\bin\Debug\ClientSideSMR.exe.config
+C:\Users\wdsis\source\repos\ClientSideSMR\ClientSideSMR\bin\Debug\ClientSideSMR.exe
+C:\Users\wdsis\source\repos\ClientSideSMR\ClientSideSMR\bin\Debug\ClientSideSMR.pdb
+C:\Users\wdsis\source\repos\ClientSideSMR\ClientSideSMR\obj\Debug\ClientSideSMR.csprojAssemblyReference.cache
+C:\Users\wdsis\source\repos\ClientSideSMR\ClientSideSMR\obj\Debug\ClientSideSMR.csproj.CoreCompileInputs.cache
+C:\Users\wdsis\source\repos\ClientSideSMR\ClientSideSMR\obj\Debug\ClientSideSMR.exe
+C:\Users\wdsis\source\repos\ClientSideSMR\ClientSideSMR\obj\Debug\ClientSideSMR.pdb
